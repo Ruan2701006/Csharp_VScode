@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\cursoc#\bin\Debug\net8.0\cursoc#.exe
+C:\Users\Aluno\Desktop\cursoc#\bin\Debug\net8.0\cursoc#.deps.json
+C:\Users\Aluno\Desktop\cursoc#\bin\Debug\net8.0\cursoc#.runtimeconfig.json
+C:\Users\Aluno\Desktop\cursoc#\bin\Debug\net8.0\cursoc#.dll
+C:\Users\Aluno\Desktop\cursoc#\bin\Debug\net8.0\cursoc#.pdb
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.dll
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\refint\cursoc#.dll
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.pdb
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\cursoc#.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\cursoc#\obj\Debug\net8.0\ref\cursoc#.dll
